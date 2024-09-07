@@ -49,4 +49,6 @@
 
 ### ✨ GitHub Stats:
 Coming Soon!
+<!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aahanshtye&show_icons=true&theme=radical)
+-->
